@@ -1,0 +1,18 @@
+{
+  "name": "ts-discord-bot",
+  "version": "1.0.0",
+  "description": "This is a simple discord bot using typescript.",
+  "main": "src/index.ts",
+  "repository": "git@github.com:khjkr/ts-discord-bot.git",
+  "author": "khjkr <hyunjun5216@naver.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@types/colors": "^1.2.1",
+    "@types/node": "^14.14.9",
+    "discord.js": "^12.4.1"
+  }
+}
